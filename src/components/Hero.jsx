@@ -237,7 +237,7 @@ export default function Hero() {
             maxWidth: '600px', margin: '0 auto 2.5rem', lineHeight: 1.8,
           }}
         >
-          Integrated MTech student at VIT Bhopal, building end-to-end ML pipelines
+          Integrated MTech student at VIT Bhopal University, building end-to-end ML pipelines
           at the intersection of healthcare AI and geospatial intelligence.
         </motion.p>
 
@@ -253,8 +253,8 @@ export default function Hero() {
           {[
             { num: '3+', label: 'ML Projects' },
             { num: '2', label: 'Certifications' },
-            { num: '600+', label: 'Events Led' },
-            { num: '89%', label: 'Best Accuracy' },
+            { num: '600+', label: ' Students Coordinated' },
+            { num: '89%', label: 'ML Project Accuracy' },
           ].map(function (stat, i) {
             return (
               <motion.div

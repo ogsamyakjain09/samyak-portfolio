@@ -7,7 +7,7 @@ const EDUCATION = [
     degree: 'Integrated MTech — Data Science & Computational Intelligence',
     school: 'VIT Bhopal University',
     period: 'Nov 2023 – Present',
-    grade: 'CGPA: 7.47',
+    grade: 'CGPA: 8.09 (Ongoing)',
     details: 'Machine Learning · Deep Learning · Data Structures · DBMS · Cloud Computing · Statistics',
     icon: '🎓',
     accent: '#00d4ff',

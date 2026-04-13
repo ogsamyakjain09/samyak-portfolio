@@ -3,10 +3,10 @@ import { useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
 
 const STATS = [
-  { num: '7.47', label: 'CGPA' },
+  { num: '8.09', label: 'CGPA' },
   { num: '3+', label: 'ML Projects' },
-  { num: '600+', label: 'Events Led' },
-  { num: '2025', label: 'Graduating' },
+  { num: '600+', label: 'Students Coordinated' },
+  { num: '2028', label: 'Graduating' },
 ]
 
 const INTERESTS = [
@@ -253,7 +253,7 @@ export default function About() {
             color: '#94a3b8', lineHeight: 1.9,
             fontSize: '1rem', marginBottom: '1.2rem',
           }}>
-            I'm a passionate Integrated MTech student in Data Science at VIT Bhopal,
+            I'm a passionate Integrated MTech student in Data Science at VIT Bhopal University,
             obsessed with building ML systems that solve real-world problems. From detecting
             kidney stones with CNNs to monitoring flood risks from satellite imagery —
             I build end-to-end pipelines that actually work.

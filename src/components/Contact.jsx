@@ -388,7 +388,7 @@ export default function Contact() {
             fontSize: '0.75rem', color: '#334155',
             letterSpacing: '2px',
           }}>
-            DATA SCIENCE · VIT BHOPAL · 2025
+            DATA SCIENCE · VIT BHOPAL UNIVERSITY · 2025
           </div>
         </motion.div>
 

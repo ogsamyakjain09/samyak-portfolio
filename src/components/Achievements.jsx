@@ -5,8 +5,8 @@ import { motion, useInView } from 'framer-motion'
 const ACHIEVEMENTS = [
   {
     icon: '🏆',
-    title: 'Health-O-Tech Hackathon Finalist',
-    org: 'BVIT Bhopal',
+    title: 'Health-O-Tech Hackathon Achiever',
+    org: 'VIT Bhopal University University',
     year: '2025',
     description: 'Competed in a healthcare-focused collegiate hackathon and was recognised as a finalist among all participating teams.',
     accent: '#00d4ff',
@@ -24,7 +24,7 @@ const ACHIEVEMENTS = [
   {
     icon: '⚡',
     title: 'Event Management Lead',
-    org: 'Firefox Club — VIT Bhopal',
+    org: 'Firefox Club — VIT Bhopal University',
     year: 'Jun 2024 – Present',
     description: 'Coordinated technical and cultural events for 600+ participants, managing logistics, scheduling, and cross-functional team operations.',
     accent: '#7c3aed',
@@ -33,7 +33,7 @@ const ACHIEVEMENTS = [
   {
     icon: '🎪',
     title: 'Coordinator — Adviya 2024',
-    org: 'Cultural & Sports Fest, VIT Bhopal',
+    org: 'Cultural & Sports Fest, VIT Bhopal University',
     year: 'Feb 2024',
     description: 'Planned and executed campus-wide cultural and sports events, leading cross-functional student teams across multiple event tracks.',
     accent: '#f59e0b',
@@ -42,7 +42,7 @@ const ACHIEVEMENTS = [
   {
     icon: '🌱',
     title: 'NSS Plantation Drive',
-    org: 'VIT Bhopal × Sehore Government',
+    org: 'VIT Bhopal University × Sehore Government',
     year: 'December 2024',
     description: 'Contributed to planting 10,000+ trees in collaboration with the state government. Organised and mobilised volunteer teams for the initiative.',
     accent: '#00ff88',
